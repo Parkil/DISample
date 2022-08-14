@@ -1,0 +1,7 @@
+dependency-injector
+aiohttp~=3.8.1
+pyyaml
+pytest-aiohttp
+pytest-cov
+httpie
+pytest~=7.1.2
